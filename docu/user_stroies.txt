@@ -1,0 +1,31 @@
+User Stories
+
+1.
+As normal user 
+I want to change a language on the WebPage
+So that I can use it with my preferred language.
+
+2.
+As a normal user
+I want to use the search box
+So that I can search for lines, stops and addresses
+
+3.  ezekből is egyet és a featurebe több scenáriot - egyesével ki be kapcsolgatni mind külön külön (6) - examples
+screenshot összehasnlítani esetleg gomb megváltozott fehérre
+As a normal user
+I want to turn in or off map display options
+So that I can toggle the options stops, vehicles and MOL Bubi.
+
+4.
+As a normal user
+I want to go somewhere
+So that I can be able to plan a trip on the page.(single, in more details, for a future date,)
+
+5.
+As a normal user
+I want to see the map better
+So that I can zoom it in and out.
+
+
+
+
